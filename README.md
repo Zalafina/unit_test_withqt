@@ -26,6 +26,7 @@ Use QtCreator to do gtest & lcov Unit Test.
  ![Screenshot](https://raw.githubusercontent.com/Zalafina/unit_test_withqt/master/pics/clean_build.png)
 ------------------------------------------
 
+
 ## Unit Test Result
 
 ### gtest test result
@@ -34,6 +35,6 @@ Use QtCreator to do gtest & lcov Unit Test.
 
 ### lcov test result
  ![Screenshot](https://raw.githubusercontent.com/Zalafina/unit_test_withqt/master/pics/lcov_result.png)
- 
+
  ![Screenshot](https://raw.githubusercontent.com/Zalafina/unit_test_withqt/master/pics/lcov_html.png)
 
