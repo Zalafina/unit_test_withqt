@@ -5,4 +5,22 @@ Use QtCreator to do gtest & lcov Unit Test.
 2. Use lcov for Code Coverage Report.
 
 ## QtCreator Build Settings
-![Screenshot](https://raw.githubusercontent.com/Zalafina/QKeyMapper/master/screenshot/QKeyMapper_screenshot_01.png)
+
+### gtest build setting
+ ![Screenshot](https://raw.githubusercontent.com/Zalafina/unit_test_withqt/master/pics/gtest_build_01.png)
+
+ ![Screenshot](https://raw.githubusercontent.com/Zalafina/unit_test_withqt/master/pics/gtest_build_02.png)
+
+ ![Screenshot](https://raw.githubusercontent.com/Zalafina/unit_test_withqt/master/pics/gtest_build_03.png)
+------------------------------------------
+
+### lcov build setting
+ ![Screenshot](https://raw.githubusercontent.com/Zalafina/unit_test_withqt/master/pics/lcov_build_01.png)
+
+ ![Screenshot](https://raw.githubusercontent.com/Zalafina/unit_test_withqt/master/pics/lcov_build_02.png)
+
+ ![Screenshot](https://raw.githubusercontent.com/Zalafina/unit_test_withqt/master/pics/lcov_build_03.png)
+------------------------------------------
+
+### clean build setting
+![Screenshot](https://raw.githubusercontent.com/Zalafina/unit_test_withqt/master/pics/clean_build.png)
